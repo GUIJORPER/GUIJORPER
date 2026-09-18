@@ -80,11 +80,10 @@ Tecnologias presentes nos meus projetos, do código à execução.
   <img src="./assets/stack/vite.svg" width="160" height="70" alt="Vite" />
 </p>
 
-**Infraestrutura & IA**
+**Infraestrutura**
 
 <p>
   <img src="./assets/stack/docker.svg" width="160" height="70" alt="Docker" />
-  <img src="./assets/stack/codex.svg" width="160" height="70" alt="Codex" />
 </p>
 
 ## 03 // TERMINAL
