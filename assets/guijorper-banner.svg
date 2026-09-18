@@ -19,7 +19,7 @@
   <text x="51" y="249" fill="#93A4B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Código em movimento. Ideias em execução.</text>
   <path d="M51 283H663" stroke="#16304D"/>
   <text x="51" y="318" fill="#CFD9E5" font-family="Consolas, monospace" font-size="16">PYTHON <tspan fill="#16304D">/</tspan> TYPESCRIPT <tspan fill="#16304D">/</tspan> REACT <tspan fill="#16304D">/</tspan> NODE.JS</text>
-  <text x="51" y="363" fill="#93A4B8" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">GB-FLOW / PORTO-IA / PARADAS-OPERACIONAIS</text>
+  <text x="51" y="363" fill="#93A4B8" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">SYSTEM DESIGN / ARQUITETURA / AUTOMAÇÃO</text>
   <path d="M782 108H860L886 134H922M782 200H914M782 292H852L885 259H922" stroke="#16304D" stroke-width="2"/>
   <path d="M782 108H823M782 200H852M782 292H809" stroke="#58A6FF" stroke-width="2"/>
   <rect x="894" y="115" width="228" height="168" rx="16" fill="#111B27" stroke="#16304D"/>
