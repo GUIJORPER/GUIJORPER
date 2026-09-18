@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="70" viewBox="0 0 160 70" role="img" aria-labelledby="title">
+<title id="title">Vite — build &amp; dev</title>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132031"/><stop offset="1" stop-color="#0B121C"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51DCA5" stop-opacity=".4"/><stop offset=".65" stop-color="#243347"/><stop offset="1" stop-color="#1B2735"/></linearGradient>
+</defs>
+<rect x="1.5" y="2.5" width="153" height="62" rx="12" fill="#000" opacity=".12"/>
+<rect x="1.5" y="1.5" width="153" height="62" rx="12" fill="url(#surface)" stroke="url(#edge)"/>
+<rect x="11" y="12" width="40" height="40" rx="10" fill="#11362E"/>
+<g transform="translate(17.5 18.5) scale(1.125)" color="#51DCA5"><g fill="currentColor"><path d="M13.056 23.238a.57.57 0 0 1-1.02-.355v-5.202c0-.63-.512-1.143-1.144-1.143H5.148a.57.57 0 0 1-.464-.903l3.777-5.29c.54-.753 0-1.804-.93-1.804H.57a.574.574 0 0 1-.543-.746.6.6 0 0 1 .08-.157L5.008.78a.57.57 0 0 1 .467-.24h14.589a.57.57 0 0 1 .466.903l-3.778 5.29c-.54.755 0 1.806.93 1.806h5.745c.238 0 .424.138.513.322a.56.56 0 0 1-.063.603z"/></g></g>
+<text x="61" y="30" fill="#EDF4FC" font-family="Segoe UI, Arial, sans-serif" font-size="12.4" font-weight="600">Vite</text>
+<text x="61" y="44" fill="#91A4BA" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" font-weight="500" letter-spacing=".65">BUILD &amp; DEV</text>
+<path d="M17 58h18" stroke="#51DCA5" stroke-opacity=".65" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

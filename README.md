@@ -47,35 +47,45 @@ Tecnologias presentes nos meus projetos, do código à execução.
 
 **Front-end**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111B27?style=flat-square&logo=typescript&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111B27?style=flat-square&logo=javascript&logoColor=58A6FF)
-![React](https://img.shields.io/badge/React-111B27?style=flat-square&logo=react&logoColor=58A6FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111B27?style=flat-square&logo=tailwindcss&logoColor=58A6FF)
+<p>
+  <img src="./assets/stack/typescript.svg" width="160" height="70" alt="TypeScript" />
+  <img src="./assets/stack/javascript.svg" width="160" height="70" alt="JavaScript" />
+  <img src="./assets/stack/react.svg" width="160" height="70" alt="React" />
+  <img src="./assets/stack/tailwindcss.svg" width="160" height="70" alt="Tailwind CSS" />
+</p>
 
 **Back-end & automação**
 
-![Python](https://img.shields.io/badge/Python-111B27?style=flat-square&logo=python&logoColor=3DDC97)
-![Node.js](https://img.shields.io/badge/Node.js-111B27?style=flat-square&logo=nodedotjs&logoColor=3DDC97)
-![Express](https://img.shields.io/badge/Express-111B27?style=flat-square&logo=express&logoColor=3DDC97)
-![C# / .NET](https://img.shields.io/badge/C%23_%2F_.NET-111B27?style=flat-square&logo=dotnet&logoColor=3DDC97)
+<p>
+  <img src="./assets/stack/python.svg" width="160" height="70" alt="Python" />
+  <img src="./assets/stack/nodejs.svg" width="160" height="70" alt="Node.js" />
+  <img src="./assets/stack/express.svg" width="160" height="70" alt="Express" />
+  <img src="./assets/stack/dotnet.svg" width="160" height="70" alt="C# / .NET" />
+</p>
 
 **Banco de dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111B27?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![MySQL](https://img.shields.io/badge/MySQL-111B27?style=flat-square&logo=mysql&logoColor=58A6FF)
-![SQLite](https://img.shields.io/badge/SQLite-111B27?style=flat-square&logo=sqlite&logoColor=58A6FF)
+<p>
+  <img src="./assets/stack/postgresql.svg" width="160" height="70" alt="PostgreSQL" />
+  <img src="./assets/stack/mysql.svg" width="160" height="70" alt="MySQL" />
+  <img src="./assets/stack/sqlite.svg" width="160" height="70" alt="SQLite" />
+</p>
 
 **Ferramentas & qualidade**
 
-![Git](https://img.shields.io/badge/Git-111B27?style=flat-square&logo=git&logoColor=3DDC97)
-![pnpm](https://img.shields.io/badge/pnpm-111B27?style=flat-square&logo=pnpm&logoColor=3DDC97)
-![Playwright](https://img.shields.io/badge/Playwright-111B27?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-111B27?style=flat-square&logo=vite&logoColor=3DDC97)
+<p>
+  <img src="./assets/stack/git.svg" width="160" height="70" alt="Git" />
+  <img src="./assets/stack/pnpm.svg" width="160" height="70" alt="pnpm" />
+  <img src="./assets/stack/playwright.svg" width="160" height="70" alt="Playwright" />
+  <img src="./assets/stack/vite.svg" width="160" height="70" alt="Vite" />
+</p>
 
 **Infraestrutura & IA**
 
-![Docker](https://img.shields.io/badge/Docker-111B27?style=flat-square&logo=docker&logoColor=58A6FF)
-![Codex](https://img.shields.io/badge/Codex-111B27?style=flat-square)
+<p>
+  <img src="./assets/stack/docker.svg" width="160" height="70" alt="Docker" />
+  <img src="./assets/stack/codex.svg" width="160" height="70" alt="Codex" />
+</p>
 
 ## 03 // TERMINAL
 

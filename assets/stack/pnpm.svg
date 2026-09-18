@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="70" viewBox="0 0 160 70" role="img" aria-labelledby="title">
+<title id="title">pnpm — pacotes</title>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132031"/><stop offset="1" stop-color="#0B121C"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51DCA5" stop-opacity=".4"/><stop offset=".65" stop-color="#243347"/><stop offset="1" stop-color="#1B2735"/></linearGradient>
+</defs>
+<rect x="1.5" y="2.5" width="153" height="62" rx="12" fill="#000" opacity=".12"/>
+<rect x="1.5" y="1.5" width="153" height="62" rx="12" fill="url(#surface)" stroke="url(#edge)"/>
+<rect x="11" y="12" width="40" height="40" rx="10" fill="#11362E"/>
+<g transform="translate(17.5 18.5) scale(1.125)" color="#51DCA5"><g fill="currentColor"><path d="M0 0v7.5h7.5V0zm8.25 0v7.5h7.498V0zm8.25 0v7.5H24V0zM2 2h3.5v3.5H2zm8.25 0h3.498v3.5H10.25zm8.25 0H22v3.5h-3.5zM8.25 8.25v7.5h7.498v-7.5zm8.25 0v7.5H24v-7.5zm2 2H22v3.5h-3.5zM0 16.5V24h7.5v-7.5zm8.25 0V24h7.498v-7.5zm8.25 0V24H24v-7.5z"/></g></g>
+<text x="61" y="30" fill="#EDF4FC" font-family="Segoe UI, Arial, sans-serif" font-size="12.4" font-weight="600">pnpm</text>
+<text x="61" y="44" fill="#91A4BA" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" font-weight="500" letter-spacing=".65">PACOTES</text>
+<path d="M17 58h18" stroke="#51DCA5" stroke-opacity=".65" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

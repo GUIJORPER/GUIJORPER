@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="70" viewBox="0 0 160 70" role="img" aria-labelledby="title">
+<title id="title">C# / .NET — back-end</title>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132031"/><stop offset="1" stop-color="#0B121C"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51DCA5" stop-opacity=".4"/><stop offset=".65" stop-color="#243347"/><stop offset="1" stop-color="#1B2735"/></linearGradient>
+</defs>
+<rect x="1.5" y="2.5" width="153" height="62" rx="12" fill="#000" opacity=".12"/>
+<rect x="1.5" y="1.5" width="153" height="62" rx="12" fill="url(#surface)" stroke="url(#edge)"/>
+<rect x="11" y="12" width="40" height="40" rx="10" fill="#11362E"/>
+<g transform="translate(17.5 18.5) scale(1.125)" color="#51DCA5"><g fill="currentColor"><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></g></g>
+<text x="61" y="30" fill="#EDF4FC" font-family="Segoe UI, Arial, sans-serif" font-size="12.4" font-weight="600">C# / .NET</text>
+<text x="61" y="44" fill="#91A4BA" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" font-weight="500" letter-spacing=".65">BACK-END</text>
+<path d="M17 58h18" stroke="#51DCA5" stroke-opacity=".65" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
