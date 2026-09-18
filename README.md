@@ -12,15 +12,14 @@
 
 <p align="center">
   <a href="https://github.com/GUIJORPER">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1400&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Desenvolvimento+web+%7C+Automa%C3%A7%C3%A3o;Python+%7C+TypeScript+%7C+React+%7C+Node.js;Estudando+System+Design+e+arquitetura+de+projetos;Em+foco%3A+GB-Flow;PORTO-IA+%7C+Paradas-Operacionais;C%C3%B3digo+em+movimento.+Ideias+em+execu%C3%A7%C3%A3o." width="760" alt="Desenvolvimento web e automação com Python, TypeScript, React e Node.js; estudando System Design e arquitetura de projetos; projetos GB-Flow, PORTO-IA e Paradas-Operacionais." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1400&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Desenvolvimento+web+%7C+Automa%C3%A7%C3%A3o;Python+%7C+TypeScript+%7C+React+%7C+Node.js;Estudando+System+Design+e+arquitetura+de+projetos;C%C3%B3digo+em+movimento.+Ideias+em+execu%C3%A7%C3%A3o." width="760" alt="Desenvolvimento web e automação com Python, TypeScript, React e Node.js; estudando System Design e arquitetura de projetos." />
   </a>
 </p>
 
 <p align="center">
   <a href="#01--identity">IDENTIDADE</a> ·
   <a href="#02--tech_stack">STACK</a> ·
-  <a href="#04--featured_projects">PROJETOS</a> ·
-  <a href="#08--connect">CONTATO</a>
+  <a href="#06--connect">CONTATO</a>
 </p>
 
 ---
@@ -35,7 +34,6 @@ developer = {
     "frontend": ["React", "Tailwind CSS"],
     "backend": ["Node.js", ".NET"],
     "studying": ["System Design", "Arquitetura de projetos"],
-    "featured": ["GB-Flow", "PORTO-IA", "Paradas-Operacionais"],
     "signature": "Código em movimento. Ideias em execução.",
 }
 ```
@@ -85,70 +83,18 @@ guijorper@flow-console:~$ boot --profile
 
 [ OK ] Identidade carregada
 [ OK ] Stack mapeada
-[ OK ] Projetos conectados
+[ OK ] Perfil pronto
 
 PROFILE  : Guijorper
 FOCUS    : Web / Automação / Ferramentas de TI
 STACK    : Python / TypeScript / React / Node.js
-FEATURED : GB-Flow
-PROJECTS : PORTO-IA / Paradas-Operacionais
 STUDYING : System Design / Arquitetura de projetos
 
 guijorper@flow-console:~$ next
 > código em movimento_ █
 ```
 
-## 04 // FEATURED_PROJECTS
-
-### GB-Flow
-
-**Uma biblioteca musical entre dispositivos.**
-
-Aplicativo musical com busca, player, playlists e biblioteca sincronizada. Inclui PWA com reprodução offline de arquivos MP3 salvos no aplicativo e processamento de mídia autorizada.
-
-`React` `TypeScript` `Tailwind CSS` `C# / .NET` `PostgreSQL` `Docker`
-
-**Status:** implementação validada localmente, conforme a documentação do projeto.
-
-![Destaque](https://img.shields.io/badge/FOCO-PRINCIPAL-111B27?style=flat-square&labelColor=163D31&color=111B27)
-![Acesso](https://img.shields.io/badge/ACESSO-PRIVADO-111B27?style=flat-square&labelColor=16304D&color=111B27)
-
-[![Abrir GB-Flow](https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO_%E2%86%97-16304D?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/GUIJORPER/GB-Flow)
-
-### PORTO-IA
-
-Ambiente de desenvolvimento com projetos, tarefas, chat Codex e gerenciamento de arquivos. O Porto Studio integra ambientes Docker e comparação de alterações entre tarefas.
-
-`JavaScript` `Node.js` `Monaco Editor` `Docker` `Codex`
-
-**Status:** protótipo, conforme a documentação do projeto. **Acesso:** privado.
-
-[![Abrir PORTO-IA](https://img.shields.io/badge/PORTO--IA_%E2%86%97-16304D?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/GUIJORPER/PORTO-IA)
-
-### Paradas-Operacionais
-
-Sistema de acompanhamento de paradas operacionais do DMAE de Porto Alegre. Combina coleta automatizada em Python, mapa interativo e consulta por endereço, bairro ou zona.
-
-`React` `TypeScript` `Node.js` `Express` `MySQL` `Python` `Leaflet`
-
-**Status:** ativo, conforme o README do projeto. **Acesso:** privado.
-
-[![Abrir Paradas-Operacionais](https://img.shields.io/badge/PARADAS--OPERACIONAIS_%E2%86%97-16304D?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/GUIJORPER/Paradas-Operacionais)
-
-> Os repositórios destacados são privados. Os links exigem uma conta com permissão de acesso.
-
-## 05 // PROJECT_ARCHIVE
-
-Outros projetos que compõem minha trajetória com ferramentas de TI e aplicações web.
-
-| Projeto | Aplicação | Tecnologias |
-| :--- | :--- | :--- |
-| [Nyx-Scan](https://github.com/GUIJORPER/Nyx-Scan) | Inventário de estações Windows com painel administrativo e agente de coleta. | Python · PowerShell · JavaScript · .NET |
-| [Radar-Subdominios](https://github.com/GUIJORPER/Radar-Subdominios) | Pesquisa de subdomínios com fontes públicas, consultas DNS e exportação. | Node.js · JavaScript · SQLite |
-
-<sub>Repositórios privados. “Archive” organiza o portfólio; não indica que os projetos foram descontinuados.</sub>
-
-## 06 // SYSTEM_METRICS
+## 04 // SYSTEM_METRICS
 
 [Consultar perfil e atividade no GitHub ↗](https://github.com/GUIJORPER)
 
@@ -167,7 +113,7 @@ Outros projetos que compõem minha trajetória com ferramentas de TI e aplicaç�
 
 <sub>Os cards usam serviços externos e podem ficar temporariamente indisponíveis. Repositórios privados não entram automaticamente nas estatísticas ou no card de linguagens; os resultados podem estar vazios ou incompletos.</sub>
 
-## 07 // CONTRIBUTION_MATRIX
+## 05 // CONTRIBUTION_MATRIX
 
 [Abrir calendário nativo de contribuições ↗](https://github.com/GUIJORPER?tab=overview)
 
@@ -182,7 +128,7 @@ Outros projetos que compõem minha trajetória com ferramentas de TI e aplicaç�
 
 <sub>A visualização externa depende dos dados disponibilizados pelo GitHub e da disponibilidade do serviço.</sub>
 
-## 08 // CONNECT
+## 06 // CONNECT
 
 [![GitHub de Guijorper](https://img.shields.io/badge/GITHUB-GUIJORPER-111B27?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=16304D)](https://github.com/GUIJORPER)
 
