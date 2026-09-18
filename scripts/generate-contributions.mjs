@@ -35,7 +35,7 @@ export function renderCalendar(calendar, username, generatedAt = new Date()) {
   const labelDate = (value) => value.split('-').reverse().join('/');
   const timestamp = generatedAt.toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' });
   const months = ['JAN', 'FEV', 'MAR', 'ABR', 'MAI', 'JUN', 'JUL', 'AGO', 'SET', 'OUT', 'NOV', 'DEZ'];
-  const project = (week, weekday) => ({ x: 86 + week * 17 + weekday * 13, y: 364 - week * 2.2 + weekday * 9 });
+  const project = (week, weekday) => ({ x: 86 + week * 17 + weekday * 13, y: 400 - week * 1.4 + weekday * 9 });
   const points = (list) => list.map(([x, y]) => `${x.toFixed(2)},${y.toFixed(2)}`).join(' ');
   const cells = [...days].sort((a, b) => project(a.week, a.weekday).y - project(b.week, b.weekday).y).map((day) => {
     const { x, y } = project(day.week, day.weekday);
@@ -68,7 +68,7 @@ export function renderCalendar(calendar, username, generatedAt = new Date()) {
 <text x="1065" y="72" text-anchor="end" font-family="Consolas, monospace" font-size="33" font-weight="700" fill="#58A6FF">G&gt;<tspan fill="#3DDC97">_</tspan></text>
 <path d="M36 128h1048" stroke="#16304D"/>
 <text x="36" y="171" fill="#58A6FF" font-size="31" font-weight="700">${fmt(total)}</text>
-<text x="36" y="193" fill="#93A4B8" font-size="12">CONTRIBUIÇÕES NO PERÍODO</text>
+<text x="36" y="193" fill="#93A4B8" font-size="12">CONTRIBUIÇÕES VISÍVEIS NO PERÍODO</text>
 <text x="342" y="171" fill="#CFD9E5" font-size="31" font-weight="700">${fmt(active)}</text>
 <text x="342" y="193" fill="#93A4B8" font-size="12">DIAS COM ATIVIDADE</text>
 <text x="651" y="171" fill="#3DDC97" font-size="31" font-weight="700">${fmt(peak)}</text>
