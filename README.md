@@ -19,7 +19,8 @@
 <p align="center">
   <a href="#01--identity">IDENTIDADE</a> ·
   <a href="#02--tech_stack">STACK</a> ·
-  <a href="#06--connect">CONTATO</a>
+  <a href="#04--contribution_flow">CONTRIBUIÇÕES</a> ·
+  <a href="#05--connect">CONTATO</a>
 </p>
 
 ---
@@ -94,41 +95,19 @@ guijorper@flow-console:~$ next
 > código em movimento_ █
 ```
 
-## 04 // SYSTEM_METRICS
+## 04 // CONTRIBUTION_FLOW
 
-[Consultar perfil e atividade no GitHub ↗](https://github.com/GUIJORPER)
+**Minha atividade, dia a dia.**
 
-<details>
-<summary><strong>Expandir estatísticas, linguagens e streak</strong></summary>
+<p align="center">
+  <img src="./assets/contribution-flow.svg" width="100%" alt="Calendário 3D de contribuições de Guijorper, com total do período, dias com atividade e maior contagem diária. Cada coluna representa um dia." />
+</p>
 
-<br />
+<sub>A altura e a cor de cada coluna representam a quantidade de contribuições no dia. Atualização diária, com os dados disponibilizados pelo GitHub.</sub>
 
-![Estatísticas públicas do GitHub de Guijorper](https://github-readme-stats.vercel.app/api?username=GUIJORPER&show_icons=true&hide_rank=true&hide_border=true&bg_color=090E14&title_color=58A6FF&text_color=CFD9E5&icon_color=3DDC97&locale=pt-br)
+[Ver calendário nativo de contribuições ↗](https://github.com/GUIJORPER?tab=overview)
 
-![Linguagens dos repositórios públicos de Guijorper](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIJORPER&layout=compact&langs_count=6&hide_border=true&bg_color=090E14&title_color=58A6FF&text_color=CFD9E5&locale=pt-br)
-
-![Sequência de contribuições de Guijorper](https://streak-stats.demolab.com/?user=GUIJORPER&hide_border=true&background=090E14&ring=58A6FF&fire=3DDC97&currStreakLabel=3DDC97&sideLabels=58A6FF&currStreakNum=CFD9E5&sideNums=CFD9E5&dates=93A4B8&stroke=16304D&locale=pt_BR)
-
-</details>
-
-<sub>Os cards usam serviços externos e podem ficar temporariamente indisponíveis. Repositórios privados não entram automaticamente nas estatísticas ou no card de linguagens; os resultados podem estar vazios ou incompletos.</sub>
-
-## 05 // CONTRIBUTION_MATRIX
-
-[Abrir calendário nativo de contribuições ↗](https://github.com/GUIJORPER?tab=overview)
-
-<details>
-<summary><strong>Expandir gráfico de atividade</strong></summary>
-
-<br />
-
-![Atividade pública recente de Guijorper no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GUIJORPER&bg_color=090E14&color=CFD9E5&line=58A6FF&point=3DDC97&area=false&hide_border=true&custom_title=GUIJORPER%20%2F%20CONTRIBUTION%20FLOW)
-
-</details>
-
-<sub>A visualização externa depende dos dados disponibilizados pelo GitHub e da disponibilidade do serviço.</sub>
-
-## 06 // CONNECT
+## 05 // CONNECT
 
 [![GitHub de Guijorper](https://img.shields.io/badge/GITHUB-GUIJORPER-111B27?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=16304D)](https://github.com/GUIJORPER)
 
