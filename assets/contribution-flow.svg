@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="526" viewBox="0 0 1120 526" role="img" aria-labelledby="title description">
-<title id="title">GUIJORPER: 0 contribuições entre 21/09/2025 e 20/09/2026</title>
+<title id="title">GUIJORPER: 0 contribuições entre 21/09/2025 e 21/09/2026</title>
 <desc id="description">Calendário 3D de contribuições. 0 dias com atividade; maior contagem diária: 0. A altura e a cor de cada coluna representam contribuições reais retornadas pelo GitHub. Nenhum nome de repositório é consultado ou exibido.</desc>
 <rect x="1" y="1" width="1118" height="524" rx="18" fill="#090E14" stroke="#16304D"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <path d="M36 38h26" stroke="#3DDC97" stroke-width="3"/>
 <text x="75" y="43" fill="#93A4B8" font-size="12" letter-spacing="2">GUIJORPER / ACTIVITY SIGNAL</text>
 <text x="36" y="83" fill="#CFD9E5" font-size="29" font-weight="700" letter-spacing="1">CONTRIBUTION FLOW</text>
-<text x="36" y="106" fill="#93A4B8" font-size="12">21/09/2025 — 20/09/2026 · Dados visíveis no GitHub</text>
+<text x="36" y="106" fill="#93A4B8" font-size="12">21/09/2025 — 21/09/2026 · Dados visíveis no GitHub</text>
 <text x="1065" y="72" text-anchor="end" font-family="Consolas, monospace" font-size="33" font-weight="700" fill="#58A6FF">G&gt;<tspan fill="#3DDC97">_</tspan></text>
 <path d="M36 128h1048" stroke="#16304D"/>
 <text x="36" y="171" fill="#58A6FF" font-size="31" font-weight="700">0</text>
@@ -35,6 +35,7 @@
 <g><title>23/08/2026: 0 contribuições</title><polygon points="912.80,339.28 927.30,337.40 927.30,338.40 912.80,340.28" fill="#0b1119"/><polygon points="916.50,329.92 927.30,337.40 927.30,338.40 916.50,330.92" fill="#0e161f"/><polygon points="902.00,331.80 916.50,329.92 927.30,337.40 912.80,339.28" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <g><title>16/08/2026: 0 contribuições</title><polygon points="895.80,340.68 910.30,338.80 910.30,339.80 895.80,341.68" fill="#0b1119"/><polygon points="899.50,331.32 910.30,338.80 910.30,339.80 899.50,332.32" fill="#0e161f"/><polygon points="885.00,333.20 899.50,331.32 910.30,338.80 895.80,340.68" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <g><title>09/08/2026: 0 contribuições</title><polygon points="878.80,342.08 893.30,340.20 893.30,341.20 878.80,343.08" fill="#0b1119"/><polygon points="882.50,332.72 893.30,340.20 893.30,341.20 882.50,333.72" fill="#0e161f"/><polygon points="868.00,334.60 882.50,332.72 893.30,340.20 878.80,342.08" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
+<g><title>21/09/2026: 0 contribuições</title><polygon points="993.80,342.68 1008.30,340.80 1008.30,341.80 993.80,343.68" fill="#0b1119"/><polygon points="997.50,333.32 1008.30,340.80 1008.30,341.80 997.50,334.32" fill="#0e161f"/><polygon points="983.00,335.20 997.50,333.32 1008.30,340.80 993.80,342.68" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <g><title>02/08/2026: 0 contribuições</title><polygon points="861.80,343.48 876.30,341.60 876.30,342.60 861.80,344.48" fill="#0b1119"/><polygon points="865.50,334.12 876.30,341.60 876.30,342.60 865.50,335.12" fill="#0e161f"/><polygon points="851.00,336.00 865.50,334.12 876.30,341.60 861.80,343.48" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <g><title>14/09/2026: 0 contribuições</title><polygon points="976.80,344.08 991.30,342.20 991.30,343.20 976.80,345.08" fill="#0b1119"/><polygon points="980.50,334.72 991.30,342.20 991.30,343.20 980.50,335.72" fill="#0e161f"/><polygon points="966.00,336.60 980.50,334.72 991.30,342.20 976.80,344.08" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <g><title>26/07/2026: 0 contribuições</title><polygon points="844.80,344.88 859.30,343.00 859.30,344.00 844.80,345.88" fill="#0b1119"/><polygon points="848.50,335.52 859.30,343.00 859.30,344.00 848.50,336.52" fill="#0e161f"/><polygon points="834.00,337.40 848.50,335.52 859.30,343.00 844.80,344.88" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
@@ -395,7 +396,7 @@
 <g><title>27/09/2025: 0 contribuições</title><polygon points="174.80,460.48 189.30,458.60 189.30,459.60 174.80,461.48" fill="#0b1119"/><polygon points="178.50,451.12 189.30,458.60 189.30,459.60 178.50,452.12" fill="#0e161f"/><polygon points="164.00,453.00 178.50,451.12 189.30,458.60 174.80,460.48" fill="#111B27" stroke="#203147" stroke-width="0.45"/></g>
 <text x="560" y="447" text-anchor="middle" fill="#93A4B8" font-size="13">Nenhuma contribuição disponível para esta consulta.</text>
 <path d="M36 468h1048" stroke="#16304D"/>
-<text x="36" y="499" fill="#93A4B8" font-size="12">Atualizado em 20/09/2026 · Apenas datas e contagens</text>
+<text x="36" y="499" fill="#93A4B8" font-size="12">Atualizado em 21/09/2026 · Apenas datas e contagens</text>
 <text x="847" y="499" fill="#93A4B8" font-size="11">MENOS</text>
 <rect x="893" y="486" width="16" height="16" rx="3" fill="#111B27" stroke="#203147"/><rect x="916" y="486" width="16" height="16" rx="3" fill="#16304D" stroke="#203147"/><rect x="939" y="486" width="16" height="16" rx="3" fill="#24649A" stroke="#203147"/><rect x="962" y="486" width="16" height="16" rx="3" fill="#58A6FF" stroke="#203147"/><rect x="985" y="486" width="16" height="16" rx="3" fill="#3DDC97" stroke="#203147"/>
 <text x="1018" y="499" fill="#93A4B8" font-size="11">MAIS</text>
